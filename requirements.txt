@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+matplotlib
+opencv-python
+h5py
+imageio
+Pillow
+joblib
+EasyROI
+caiman

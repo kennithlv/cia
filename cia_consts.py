@@ -1,0 +1,7 @@
+# -*- coding: utf-8 -*-
+
+PD_THRESHOLD = 0.05
+PD_RATE = 20000#5000
+# IMG_RATE = 6.736
+FICTRAC_RATE = 50
+BALL_RADIUS = 4  #mm
